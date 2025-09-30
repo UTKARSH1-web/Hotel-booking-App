@@ -1,6 +1,6 @@
 // Footer.js
 // import Image from "next/image";
-import logo from "../assets/logo (2).png";
+import logo from "../assets/hotel4.png";
 
 const Footer = () => {
   return (

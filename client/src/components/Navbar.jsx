@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FaUser } from "react-icons/fa";
-import logo from "../assets/logo (2).png";
+import logo from "../assets/hotel4.png";
 import { useAuth } from "../context/UserContext";
 import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";

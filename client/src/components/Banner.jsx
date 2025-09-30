@@ -3,7 +3,7 @@ import { FaMapMarkerAlt, FaCalendarAlt, FaUser } from "react-icons/fa";
 import DatePicker from "react-datepicker";
 import axios from "axios";
 import "react-datepicker/dist/react-datepicker.css";
-import BannerImage from "../assets/Rectangle 2.png";
+import BannerImage from "../assets/image0.png";
 import { useSearch } from "../context/Serach";
 import { useNavigate } from "react-router-dom";
 
